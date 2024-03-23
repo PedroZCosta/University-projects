@@ -1,2 +1,2 @@
 # University-projects
-Just thngs I do while I am in college
+Just projects I do while I am in college
