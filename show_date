@@ -1,0 +1,22 @@
+user_day = int(input("Por favor, digite o seu dia de nascimento: "))
+user_month = input("Por favor, digite seu mes de nascimento (Por extenso): ")
+user_year = int(input("Por favor, digite seu ano de nascimento (Com 4 digitos): "))
+form_date = input("Voce deseja visualizar a data completa, abreviada ou simples? ")
+janeiro = "01"
+fevereiro = "02"
+marco = "03"
+abril = "04"
+maio = "05"
+junho = "06"
+julho = "07"
+agosto = "08"
+setembro = "09"
+outubro = "10"
+novembro = "11"
+dezembro = "12"
+if form_date == "simples":
+    print(user_day, user_month, user_year)
+elif form_date == "abreviada":
+    print(user_day, user_month, user_year)
+else:
+    print(user_day, user_month, user_year)
