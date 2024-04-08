@@ -13,10 +13,10 @@ counter_jog2 = 0
 while True:
     try:
         win_points = int(input("Por favor, digite a quantidade de pontos a serem feitos para vencer: "))
-        if counter_jog1 == win_points or counter_jog2 == win_points:
-            break
-        elif win_points == 0:
+        if win_points == 0:
             print("Este valor nao pode ser 0, por favor tente novamente.")
+        elif counter_jog1 == win_points or counter_jog2 == win_points:
+            break
         else:
             for n in range(0, win_points):
                 jog1 = input(f"Jogador 1 digite sua {n}° jogada (pedra, papel ou tesoura): ")
