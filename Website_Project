@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+    <html lang="pt">
+    <link rel="stylesheet" href="first_website.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de viagens</title>
+</head>
+<body>
+<div class="titulo">
+    <h1>Viagens.com</h1>
+    <ul>
+        <li>
+            <a href="">Home</a>
+        </li>
+        <li>
+            <a href="">Sobre</a>
+        </li>
+        <li>
+            <a href="">Preços</a>
+        </li>
+        <li>
+            <a href="">Serviços</a>
+        </li>
+        <li>
+            <a href="">Contato</a>
+        </li>
+    </ul>
+</div>
+<Main>
+    <div class="locais">
+    <h2>Sao jose dos pinhais:</h1>
+    <img src="saojose.jpg" alt="Foto de sao jose dos pinhais" width="700" height="300">
+    <p>Localizada estrategicamente, São José dos Pinhais é cortada por três rodovias, que ligam o Sul a todo o País. No município, estão instaladas as principais fabricantes de carros, o que o torna um dos principais polos automotivos da América do Sul, inclusive, exportando carros. Um dos maiores produtores de hortifrutigranjeiros do Paraná, a cidade está em constante desenvolvimento. Em seus mais de 300 anos de história, o município é um dos mais importantes para a economia da região de Curitiba e do Paraná, na preservação cultural da história de colonização do Estado e ambiental, com mais de 80% de sua área rural e de mata atlântica.</p>
+    <a href="https://maps.app.goo.gl/Dq4DWPdpKtXpAyx46"><Address>Sao jose dos pinhais</Address></a>
+    <h2>Ponta grossa:</h2>
+    <img src="Ponta_Grossa_2019.jpg" alt="Foto de Ponta Grossa" width="700" height="300">
+    <p>Ponta Grossa é um município brasileiro do estado do Paraná, do qual é o quarto mais populoso, com 358 367 habitantes, conforme o censo de 2022. Conta com a nona maior população do Sul do Brasil e a septuagésima sexta do país. Localizado no Segundo Planalto Paranaense, é o núcleo dos Campos Gerais do Paraná, que tem uma população superior a 1 100 000 habitantes (IBGE/2014) e o maior parque industrial do interior do estado. Com uma área é 2 054,732 km², Ponta Grossa é conhecida como Princesa dos Campos e Capital Cívica do Paraná, além de receber o título de Capital Paranaense da Cerveja. A distância rodoviária até Curitiba, capital administrativa estadual, é de 103 quilômetros, e de Brasília, capital federal, é de 1 320 quilômetros.</p>
+    <a href="https://maps.app.goo.gl/Zc7VmsS82nTcdoiQA"><address>Ponta Grossa</address></a>
+</Main>
+</div>
+</body>
+</html>
